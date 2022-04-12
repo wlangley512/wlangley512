@@ -1,7 +1,7 @@
 - Aspiring programmer based in Austin, Texas. 
 - Student at Texas State University majoring in Computer Science and graduating in 2022.
 
-Currently learning basic web design.
+- Currently learning basic web design.
 
 
 <!---
